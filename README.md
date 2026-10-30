@@ -11,7 +11,7 @@ This repository contains the supplementary material for **End-to-End Self-Superv
 ## Document
 
 - **Version:** v1.0
-- **PDF:** [DNR_Supplementary_Material_v1.0.pdf](DNR_Supplementary_Material_v1.0.pdf)
+- **PDF:** [DNR_Supplementary_Material.pdf](DNR_Supplementary_Material.pdf)
 
 The supplement contains the material cited in Sections II–IV of the manuscript. Notation follows the manuscript; references are numbered independently.
 
